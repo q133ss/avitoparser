@@ -1,5 +1,5 @@
 # avitoparser
-Parser avito
+Parser avito. Python 3.9.7
 ## Libraries:
 * BeautifulSoup
 * requests
