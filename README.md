@@ -1,7 +1,7 @@
 # avitoparser
 Parser avito
-##Libraries:
-*BeautifulSoup
-*requests
-*unidecode
-*transliterate
+## Libraries:
+* BeautifulSoup
+* requests
+* unidecode
+* transliterate
