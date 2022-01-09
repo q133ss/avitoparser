@@ -1,7 +1,8 @@
 # avitoparser
-Parser avito. Python 3.9.7
+Parser avito. Python 3.8+
 ## Libraries:
 * BeautifulSoup
 * requests
 * unidecode
 * transliterate
+* KIVY
